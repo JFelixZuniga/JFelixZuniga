@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfelixzuniga&label=Profile%20views&color=0e75b6&style=flat" alt="jfelixzuniga" /> </p>
 
-- 🌱 I’m currently learning **React, Redux, MongoDB & Jest**
+- 🌱 I’m currently learning **Angular, RxJS, Spring Boot**
 
 - 💬 Ask me about **JavaScript. If I don't know, we learn**
 
